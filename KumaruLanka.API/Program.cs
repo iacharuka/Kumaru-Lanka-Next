@@ -37,17 +37,44 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 // ── CORS ──────────────────────────────────────────────────
+var configuredCorsOrigins = builder.Configuration.GetSection("Cors:AllowedOrigins").Get<string[]>() ?? Array.Empty<string>();
+var allowVercelPreview = builder.Configuration.GetValue("Cors:AllowVercelPreview", false);
+var localDevOrigins = new[]
+{
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "http://localhost:5500",
+    "http://127.0.0.1:5173",
+    "http://127.0.0.1:5500"
+};
+var allowedOrigins = configuredCorsOrigins
+    .Concat(localDevOrigins)
+    .Distinct(StringComparer.OrdinalIgnoreCase)
+    .ToArray();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("FrontendPolicy", policy =>
-        policy.WithOrigins(
-            "http://localhost:3000",
-            "http://localhost:5173",
-            "http://localhost:5500",     // Live Server (VS Code)
-            "http://127.0.0.1:5173",
-            "http://127.0.0.1:5500",
-            "https://kumarulanka.lk" // production domain
-        )
+        policy.SetIsOriginAllowed(origin =>
+        {
+            if (string.IsNullOrWhiteSpace(origin))
+            {
+                return false;
+            }
+
+            if (allowedOrigins.Any(allowed => string.Equals(allowed, origin, StringComparison.OrdinalIgnoreCase)))
+            {
+                return true;
+            }
+
+            if (!allowVercelPreview)
+            {
+                return false;
+            }
+
+            return Uri.TryCreate(origin, UriKind.Absolute, out var originUri)
+                && originUri.Host.EndsWith(".vercel.app", StringComparison.OrdinalIgnoreCase);
+        })
         .AllowAnyMethod()
         .AllowAnyHeader()
         .AllowCredentials()

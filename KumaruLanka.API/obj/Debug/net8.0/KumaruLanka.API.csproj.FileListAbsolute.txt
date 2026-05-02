@@ -159,10 +159,8 @@
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Azure.Core.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Azure.Identity.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
-/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/CloudinaryDotNet.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Humanizer.dll
-/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/MailKit.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
@@ -187,7 +185,6 @@
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
-/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/MimeKit.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Mono.TextTemplating.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/Stripe.net.dll
@@ -296,5 +293,3 @@
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/KumaruLanka.API.pdb
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/KumaruLanka.API.genruntimeconfig.cache
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/ref/KumaruLanka.API.dll
-/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
-/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll

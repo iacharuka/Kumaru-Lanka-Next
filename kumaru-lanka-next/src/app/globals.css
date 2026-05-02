@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #e07b39;
+  --brand-dark: #c96a2a;
+  --brand-soft: #fef3eb;
+  --green-900: #0d2010;
+  --green-800: #1a2e1a;
+  --green-700: #1a4a2e;
+
+  --bg: #ffffff;
+  --fg: #171717;
+  --muted: #666;
+  --border: #eee;
+  --surface: #ffffff;
+  --surface-2: #f8f9f4;
+
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --shadow-card: 0 8px 30px rgba(0, 0, 0, 0.08);
+}
+
+@theme inline {
+  --color-background: var(--bg);
+  --color-foreground: var(--fg);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0a0a0a;
+    --fg: #ededed;
+    --muted: #b6b6b6;
+    --border: rgba(255, 255, 255, 0.10);
+    --surface: #0f0f0f;
+    --surface-2: #141414;
+    --shadow-card: 0 10px 40px rgba(0, 0, 0, 0.45);
+  }
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+
+.surface {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+}

@@ -1,0 +1,297 @@
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/appsettings.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.staticwebassets.runtime.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.staticwebassets.endpoints.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.deps.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.runtimeconfig.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.pdb
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/AspNetCoreRateLimit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Azure.Core.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Azure.Identity.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Humanizer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/MailKit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/MimeKit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Stripe.net.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.csproj.AssemblyReference.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.AssemblyInfoInputs.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.AssemblyInfo.cs
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.csproj.CoreCompileInputs.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/scopedcss/bundle/CeylonExplorer.API.styles.css
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/swae.build.ex.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonEx.A6920243.Up2Date
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/refint/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.pdb
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.genruntimeconfig.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/CeylonExplorer.API/obj/Debug/net8.0/ref/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.staticwebassets.endpoints.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/appsettings.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.staticwebassets.runtime.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.deps.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.runtimeconfig.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CeylonExplorer.API.pdb
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/AspNetCoreRateLimit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Azure.Core.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Azure.Identity.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Humanizer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/MailKit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/MimeKit.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Stripe.net.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.csproj.AssemblyReference.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.AssemblyInfoInputs.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.AssemblyInfo.cs
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.csproj.CoreCompileInputs.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.sourcelink.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/scopedcss/bundle/CeylonExplorer.API.styles.css
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/swae.build.ex.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonEx.A6920243.Up2Date
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/refint/CeylonExplorer.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.pdb
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/CeylonExplorer.API.genruntimeconfig.cache
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/CeylonExplorer.API/obj/Debug/net8.0/ref/CeylonExplorer.API.dll

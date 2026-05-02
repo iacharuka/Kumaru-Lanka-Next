@@ -14,7 +14,7 @@ export default async function Home() {
 
   return (
     <div>
-      <section className="relative min-h-[calc(100vh-72px)] overflow-hidden text-white">
+      <section className="relative min-h-[calc(100vh-72px)] overflow-hidden text-white md:bg-white md:text-black md:dark:bg-black md:dark:text-white">
         <Image
           src="/images/kumaru-lanka-hero.png"
           alt="Sri Lanka coast, tea hills, train, and Sigiriya landscape"
@@ -23,16 +23,18 @@ export default async function Home() {
           sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
-        <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(13,32,16,.88)_0%,rgba(13,32,16,.66)_46%,rgba(13,32,16,.18)_100%)]" />
+        <div className="absolute inset-0 hidden bg-[linear-gradient(90deg,rgba(13,32,16,.88)_0%,rgba(13,32,16,.66)_46%,rgba(13,32,16,.18)_100%)] md:block" />
+        {/* Mobile overlay - darker for readability */}
+        <div className="absolute inset-0 bg-[linear-gradient(135deg,rgba(13,32,16,.60)_0%,rgba(13,32,16,.48)_50%,rgba(13,32,16,.35)_100%)] md:hidden" />
         <div className="relative container flex min-h-[calc(100vh-72px)] flex-col justify-center py-14 md:py-20">
           <div className="max-w-3xl">
-            <div className="inline-flex items-center rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-bold tracking-wide backdrop-blur">
+            <div className="inline-flex items-center rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-bold tracking-wide backdrop-blur md:border-white/20 md:bg-white/10 md:text-black/80 md:dark:border-white/20 md:dark:bg-white/10">
               Private tours, trusted drivers, pay after meeting
             </div>
-            <h1 className="mt-4 text-4xl font-extrabold tracking-tight md:text-6xl">
+            <h1 className="mt-4 text-4xl font-extrabold tracking-tight text-white md:text-black md:dark:text-white md:text-6xl">
               Kumaru Lanka
             </h1>
-            <p className="mt-4 max-w-2xl text-base leading-7 text-white/85 md:text-lg">
+            <p className="mt-4 max-w-2xl text-base leading-7 text-white/85 md:text-black/70 md:dark:text-white/85 md:text-lg">
               Plan your Sri Lanka trip with local support: tours, private
               vehicles, airport transfers, itinerary help, and booking status
               updates in one place.
@@ -47,7 +49,7 @@ export default async function Home() {
               </Link>
               <Link
                 href="/itinerary"
-                className="inline-flex h-12 items-center justify-center rounded-full border border-white/30 bg-white/10 px-6 font-semibold text-white backdrop-blur hover:border-white/50"
+                className="inline-flex h-12 items-center justify-center rounded-full border border-white/30 bg-white/10 px-6 font-semibold text-white backdrop-blur hover:border-white/50 md:border-white/30 md:text-black/80 md:dark:text-white md:dark:bg-white/10"
               >
                 Build itinerary
               </Link>
@@ -63,10 +65,10 @@ export default async function Home() {
             ].map(([title, copy]) => (
               <div
                 key={title}
-                className="rounded-2xl border border-white/15 bg-black/20 p-4 backdrop-blur"
+                className="rounded-2xl border border-white/15 bg-black/20 p-4 backdrop-blur md:border-[var(--border)] md:bg-[var(--surface-2)] md:text-black md:dark:bg-black/20 md:dark:text-white"
               >
                 <div className="font-extrabold">{title}</div>
-                <div className="mt-1 text-xs leading-5 text-white/70">{copy}</div>
+                <div className="mt-1 text-xs leading-5 text-white/70 md:text-[var(--muted)]">{copy}</div>
               </div>
             ))}
           </div>

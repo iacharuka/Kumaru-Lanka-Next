@@ -293,3 +293,8 @@
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/KumaruLanka.API.pdb
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/KumaruLanka.API.genruntimeconfig.cache
 /Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/Debug/net8.0/ref/KumaruLanka.API.dll
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/publish/web.config
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/publish/appsettings.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/publish/KumaruLanka.API.deps.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/publish/KumaruLanka.API.runtimeconfig.json
+/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/bin/Debug/net8.0/publish/KumaruLanka.API.staticwebassets.endpoints.json

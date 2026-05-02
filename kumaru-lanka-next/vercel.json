@@ -2,10 +2,5 @@
   "buildCommand": "npm run build",
   "framework": "nextjs",
   "outputDirectory": ".next",
-  "env": {
-    "NEXT_PUBLIC_API_BASE": "@next_public_api_base",
-    "KL_API_BASE": "@kl_api_base"
-  },
-  "envPrefix": "NEXT_",
   "regions": ["sfo1"]
 }

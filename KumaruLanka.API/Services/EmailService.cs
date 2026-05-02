@@ -3,8 +3,8 @@
 // Services/IEmailService.cs + EmailService.cs
 // ============================================================
 using KumaruLanka.API.Models;
-using MailKit.Net.Smtp;
-using MimeKit;
+using System.Net;
+using System.Net.Mail;
 
 namespace KumaruLanka.API.Services;
 
@@ -19,22 +19,40 @@ public class EmailService : IEmailService
     private readonly IConfiguration _config;
     public EmailService(IConfiguration config) => _config = config;
 
+  private async Task SendHtmlEmailAsync(string toEmail, string subject, string html)
+  {
+    var fromEmail = _config["Email:SenderEmail"];
+    var fromName = _config["Email:SenderName"];
+    var password = _config["Email:Password"];
+    var host = _config["Email:SmtpHost"];
+    var port = int.Parse(_config["Email:SmtpPort"] ?? "587");
+
+    using var msg = new MailMessage
+    {
+      From = new MailAddress(fromEmail ?? string.Empty, fromName),
+      Subject = subject,
+      Body = html,
+      IsBodyHtml = true,
+    };
+    msg.To.Add(toEmail);
+
+    using var smtp = new SmtpClient(host, port)
+    {
+      EnableSsl = true,
+      Credentials = new NetworkCredential(fromEmail, password),
+    };
+
+    await smtp.SendMailAsync(msg);
+  }
+
     public async Task SendBookingConfirmationAsync(Booking booking)
     {
         try
         {
-            var msg = new MimeMessage();
-            msg.From.Add(new MailboxAddress(_config["Email:SenderName"], _config["Email:SenderEmail"]));
-            msg.To.Add(MailboxAddress.Parse(booking.Email));
-            msg.Subject = $"Booking Request Received - {booking.BookingRef} | Kumaru Lanka";
-            msg.Body    = new TextPart("html") { Text = BuildEmailHtml(booking) };
-
-            using var smtp = new SmtpClient();
-            await smtp.ConnectAsync(_config["Email:SmtpHost"], int.Parse(_config["Email:SmtpPort"] ?? "587"),
-                MailKit.Security.SecureSocketOptions.StartTls);
-            await smtp.AuthenticateAsync(_config["Email:SenderEmail"], _config["Email:Password"]);
-            await smtp.SendAsync(msg);
-            await smtp.DisconnectAsync(true);
+        await SendHtmlEmailAsync(
+          booking.Email,
+          $"Booking Request Received - {booking.BookingRef} | Kumaru Lanka",
+          BuildEmailHtml(booking));
         }
         catch { /* log in production */ }
     }
@@ -43,18 +61,10 @@ public class EmailService : IEmailService
     {
         try
         {
-            var msg = new MimeMessage();
-            msg.From.Add(new MailboxAddress(_config["Email:SenderName"], _config["Email:SenderEmail"]));
-            msg.To.Add(MailboxAddress.Parse(toEmail));
-            msg.Subject = "Reset your password — Kumaru Lanka";
-            msg.Body = new TextPart("html") { Text = BuildPasswordResetHtml(resetLink) };
-
-            using var smtp = new SmtpClient();
-            await smtp.ConnectAsync(_config["Email:SmtpHost"], int.Parse(_config["Email:SmtpPort"] ?? "587"),
-                MailKit.Security.SecureSocketOptions.StartTls);
-            await smtp.AuthenticateAsync(_config["Email:SenderEmail"], _config["Email:Password"]);
-            await smtp.SendAsync(msg);
-            await smtp.DisconnectAsync(true);
+        await SendHtmlEmailAsync(
+          toEmail,
+          "Reset your password — Kumaru Lanka",
+          BuildPasswordResetHtml(resetLink));
         }
         catch { /* log in production */ }
     }

@@ -19,9 +19,6 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt"                Version="7.3.1" />
     <PackageReference Include="BCrypt.Net-Next"                                Version="4.0.3" />
 
-    <!-- Email -->
-    <PackageReference Include="MailKit"                                        Version="4.6.0" />
-
     <!-- Image hosting -->
     <PackageReference Include="CloudinaryDotNet"                               Version="1.26.0" />
 

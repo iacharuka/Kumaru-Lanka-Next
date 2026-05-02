@@ -1,5 +1,9 @@
 import { getToken } from "@/lib/auth";
 
+const API_BASE =
+  process.env.NEXT_PUBLIC_API_BASE?.replace(/\/$/, "") ||
+  (process.env.NODE_ENV === "development" ? "http://localhost:5080/api" : "/api");
+
 export class ApiError extends Error {
   status: number;
   constructor(message: string, status: number) {
@@ -34,7 +38,7 @@ export async function apiFetch<T>(
     if (token) headers.set("Authorization", `Bearer ${token}`);
   }
 
-  const res = await fetch(`/api${path}`, {
+  const res = await fetch(`${API_BASE}${path}`, {
     ...options,
     headers,
   });

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KumaruLanka.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff885f0ed10c896b79d053a981caa20a474b696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a78535e574d17c0b03296b0db806f8739c5ec11")]
 [assembly: System.Reflection.AssemblyProductAttribute("KumaruLanka.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KumaruLanka.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

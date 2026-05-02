@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj": {}
+    "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj": {}
   },
   "projects": {
-    "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj": {
+    "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj",
+        "projectUniqueName": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj",
         "projectName": "KumaruLanka.API",
-        "projectPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj",
+        "projectPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj",
         "packagesPath": "/Users/ishankacharuka/.nuget/packages/",
-        "outputPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/obj/",
+        "outputPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ishankacharuka/.nuget/NuGet/NuGet.Config"

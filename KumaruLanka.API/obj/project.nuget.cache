@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luoIGQAbC1M=",
+  "dgSpecHash": "H9p4/pHuk74=",
   "success": true,
-  "projectFilePath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj",
+  "projectFilePath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj",
   "expectedPackageFiles": [
     "/Users/ishankacharuka/.nuget/packages/aspnetcoreratelimit/5.0.0/aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "/Users/ishankacharuka/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
@@ -144,9 +144,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'MailKit' 4.6.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9j88-vvj5-vhgr",
-      "projectPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj",
+      "projectPath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project/Kumaru Lanka/KumaruLanka.API/KumaruLanka.API.csproj",
+      "filePath": "/Users/ishankacharuka/Desktop/2026project/Kumaru Lanka project copy/Kumaru Lanka/Untitled/KumaruLanka.API/KumaruLanka.API.csproj",
       "libraryId": "MailKit",
       "targetGraphs": [
         "net8.0"

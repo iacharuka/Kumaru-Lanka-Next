@@ -105,6 +105,10 @@ builder.Services.AddScoped<IChatService,        ChatService>();
 builder.Services.AddScoped<IEmailService,       EmailService>();
 builder.Services.AddScoped<IImageService,       ImageService>();
 builder.Services.AddScoped<IItineraryService,   ItineraryService>();
+builder.Services.AddScoped<IWhatsAppService,    WhatsAppService>();
+
+// ── HttpClient Factory ────────────────────────────────────
+builder.Services.AddHttpClient();
 
 // ── HttpClient for Anthropic API ──────────────────────────
 builder.Services.AddHttpClient("AnthropicClient", client =>

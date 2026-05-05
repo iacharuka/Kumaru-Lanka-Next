@@ -28,9 +28,15 @@ public class BookingService : IBookingService
         "pending", "confirmed", "met_customer", "completed", "cancelled"
     };
 
-    private readonly AppDbContext  _db;
-    private readonly IEmailService _email;
-    public BookingService(AppDbContext db, IEmailService email) { _db = db; _email = email; }
+    private readonly AppDbContext     _db;
+    private readonly IEmailService    _email;
+    private readonly IWhatsAppService _whatsApp;
+    public BookingService(AppDbContext db, IEmailService email, IWhatsAppService whatsApp) 
+    { 
+        _db = db; 
+        _email = email; 
+        _whatsApp = whatsApp;
+    }
 
     public async Task<BookingResponseDto> CreateAsync(CreateBookingDto dto)
     {
@@ -72,6 +78,26 @@ public class BookingService : IBookingService
 
         // Send confirmation emails (fire and forget)
         _ = Task.Run(() => _email.SendBookingConfirmationAsync(booking));
+        
+        // Send WhatsApp confirmation if phone number contains country code
+        if (!string.IsNullOrWhiteSpace(booking.Phone))
+        {
+            var tourName = "Your Selected Package";
+            if (dto.TourId.HasValue)
+            {
+                var tour = await _db.Tours.FindAsync(dto.TourId.Value);
+                if (tour != null)
+                    tourName = tour.Title;
+            }
+            _ = Task.Run(() => _whatsApp.SendBookingConfirmationAsync(
+                booking.Phone, 
+                booking.BookingRef, 
+                tourName, 
+                booking.TravelDate, 
+                booking.NumberOfPax, 
+                booking.TotalAmount
+            ));
+        }
 
         return new BookingResponseDto
         {

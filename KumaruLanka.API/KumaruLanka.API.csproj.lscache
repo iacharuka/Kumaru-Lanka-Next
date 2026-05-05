@@ -62,6 +62,7 @@ Controllers/
  ReviewController.cs
  ToursController.cs
  VehiclesController.cs
+ WhatsAppController.cs
 Data/
  AppDbContext.cs
  DbSeeder.cs
@@ -96,9 +97,11 @@ Services/
  EmailService.cs
  ImageService.cs
  ItineraryService.cs
+ IWhatsAppService.cs
  ReviewService.cs
  TourService.cs
  VehicleServic.cs
+ WhatsAppService.cs
 
 [metadataReferences]
 <DOTNET>/packs/Microsoft.AspNetCore.App.Ref/8.0.25/ref/net8.0/
